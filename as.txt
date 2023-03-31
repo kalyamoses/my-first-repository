@@ -1,0 +1,99 @@
+1. Clean read and full verbatim: Distinctions
+Before you start your test, please read the below information carefully.
+
+1. Clean read and full verbatim: Distinctions
+Clean read (most used): Goal – capture what has been said. End result: Grammatically correct transcript, with good reading flow.
+
+Examples: Organization/company meetings, municipality meetings, presentations, etc.
+
+Full verbatim: Goal – capture how something has been said. End result: Precise transcript, as close to audio as possible.
+
+Examples: Research interviews like patient-doctor conversations, speech analysis, legal documents like court hearings, focus group interviews where the emotions of the interviewee play an important role, etc. 
+
+
+
+1.1 Clean read
+The transcribed text does NOT include:
+
+Speech errors
+False starts (unless they add information)
+Stutters
+Repetitions. Note: Keep repetitions of words that express emphasis: No, no, no. I am very, very happy.
+Filler words: Words often excessively used by the speaker but when you take them out, you’re left with perfectly understandable sentences. uh, um, *you know, *like, *I mean, *so, *kind of, well, sort of…
+Be mindful of the context. Some of these filler words do not always function as filler words.
+Expressions should be kept regardless of transcription type: Oh my God, Oh dear, Oh my, Oh boy, Oh, et cetera.
+Slang words must be written as "got you" instead of "gotcha", "going to" instead of "gonna", "want to" instead of "wanna", "because" instead of "'cause" et cetera.
+"Yeah", "yep", "yap", "yup", must be written as "yes" or as "all right." Note, do NOT use alright.
+Never spell "Ok" or "OK." It must always be spelled as "Okay."
+Avoid starting phrases with conjunctions in clean read. If you really need to add the conjunction, just expand the sentence. For example: "I went outside but forgot to bring my umbrella."
+For clean read: Omit all the "yeah", "yes" reactions to retain a fluent text unless they are answers to given questions.
+
+DO NOT remove filler words if they change the meaning of the phrase.
+
+Clean Read Example:
+
+Speaker 1: Hey, Amber, I'd like to ask you something.
+Amber: Okay.
+Speaker 1: Someone told me, transcribers must now complete a theoretical test before they can sign up. I'm not sure if that is true. Is it true?
+Amber: Yes.
+
+
+1.2 Full Verbatim
+The text is transcribed exactly as it sounds and includes ALL the utterances of the speakers. Those are:
+
+Speech errors: "I went to the bank on Thursday-- no, Friday."
+False starts: I, [uh], wanted-- I have dreamed of becoming a musician.
+Filler words: [uh], kind of, sort of, I mean, you know…
+Slang words: Kinda, gotta, gotcha, betcha, wanna, dunno…
+Stutters: I-I went to the bank last Tu-Thursday.
+Repetitions: I went- I went to the bank last Friday.
+Only use these forms for the affirmative/negative:
+Mm-hmm, Mm (affirmative) or Mm-mm (negative)
+Uh-huh (affirmative) or Uh-uh (negative)
+Full Verbatim Example:
+
+Speaker 1: Hey, Amber, I'd like to ask you something.
+Amber: Okay.
+Speaker 1: Someone told me, transcribers must now complete a theoretical test before they can sign up.
+Amber: Yeah.
+Speaker 1: But I'm not sure if that is true.
+Amber: Yeah.
+Speaker 1: Okay, uh, is it true?
+Amber: Yep.
+
+
+Next
+
+3.2 Numerical
+The number zero up to and including nine need to be written out: one, three, nine
+The number 10 and above can be written in digits: 10, 11, 12 etc.
+If a number is at the start of a new sentence, it is to be written out fully: Twenty-two people, Three birds, etc.
+Use digits if the figure has 5 or more digits: 50,000
+Figures that exceed a million or billion are written as 45 million
+Use the terms first, second, third, etc., but for higher numbers use 11th, 12th, etc.
+If a price is named and it is a round number, do not use decimals: $15
+Functions and their mathematical signs are written out fully: plus, minus, times, divided by, etc.
+Hyphenate all written-out fractions: Five-eights
+Mixed fractions are spelled out in words: five and a half
+Use a comma for large figures: 1,003,298 dollars
+Use a decimal point for decimal numbers: 0.42 pounds
+Phone numbers are written as digits: 201-555-5555
+
+3.3 Time format
+Time of the day:
+Use numerals when exact time is specified 9:30 in the morning
+When using o’clock, spell out the numbers: eleven o’clock.
+Examples:
+
+If the speaker says “nine” and it is implied that it is a time of day, write as 9:00
+If the speaker says “nine o’clock”, write as nine o’clock or
+If the speaker says “nine thirty”, write 9:30
+If the speaker says “nine thirty AM”, write 9:30 AM
+
+Spell out words or phrases that don’t include the exact time: half past, quarter of, midnight, noon
+Use digits to indicate degrees or radial quantities: 270 degrees, angle of 45 degrees
+The following words should be written out in full: infinity, faculty, percent, prime, degrees, phi, theta, etc.
+Times and dates are written as digits: June 30, 1934 or the 30th of June 1934
+Decades may be written as: the eighties, the 80’s or the 1980’s
+
+Next
